@@ -1,3 +1,7 @@
 Add your name to the list below:
 Mike Wittie
+<<<<<<< HEAD
 Ransom Bowman
+=======
+Ransom Bowman
+>>>>>>> branch1
